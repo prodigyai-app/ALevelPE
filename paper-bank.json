@@ -1,0 +1,898 @@
+[
+  {
+    "id": "pe-paper-1",
+    "paper": 1,
+    "title": "Paper 1 · Participation and performance foundations",
+    "marks": 105,
+    "minutes": 120,
+    "coverage": [
+      "Applied anatomy and physiology",
+      "Skill acquisition",
+      "Sport and society"
+    ],
+    "questions": [
+      {
+        "title": "Section A · Applied anatomy and physiology",
+        "stem": "<p><b>Fictional case:</b> A rower completes a steady exercise test. At one stage heart rate is 150 beats min⁻¹, stroke volume 140 mL beat⁻¹, breathing frequency 32 min⁻¹ and tidal volume 2.5 L. Later the rower completes a maximal finishing effort.</p>",
+        "parts": [
+          {
+            "q": "Which statement is accurate?",
+            "opts": [
+              "Myoglobin is the main protein transporting oxygen around the blood.",
+              "A rightward shift of the oxyhaemoglobin curve promotes oxygen unloading at a given partial pressure.",
+              "A Bohr shift makes haemoglobin bind oxygen more tightly at active tissues."
+            ],
+            "a": 1,
+            "m": 1,
+            "ms": [
+              "A rightward shift of the oxyhaemoglobin curve promotes oxygen unloading at a given partial pressure. Lower affinity means more oxygen can be released to the active tissue. The curve is not a direct graph of how much oxygen the athlete consumes. Describe the axes, the direction of the shift and its effect at a specified partial pressure."
+            ]
+          },
+          {
+            "q": "Which statement is accurate?",
+            "opts": [
+              "Type IIx fibres are the most fatigue-resistant fibres.",
+              "Every endurance movement uses only type I fibres.",
+              "Type I, IIa and IIx fibres differ in force, fatigue resistance and metabolic characteristics."
+            ],
+            "a": 2,
+            "m": 1,
+            "ms": [
+              "Type I, IIa and IIx fibres differ in force, fatigue resistance and metabolic characteristics. Type I characteristics suit sustained aerobic demand; fast fibres support high force and power. Do not claim that a marathon uses no fast fibres or a jump uses no aerobic metabolism. Recruitment changes with force requirements and fatigue."
+            ]
+          },
+          {
+            "q": "Which statement is accurate?",
+            "opts": [
+              "Spatial summation means increasing the size of one action potential.",
+              "Force can increase by recruiting more motor units and by increasing firing frequency.",
+              "All-or-none means the whole muscle can produce only one force."
+            ],
+            "a": 1,
+            "m": 1,
+            "ms": [
+              "Force can increase by recruiting more motor units and by increasing firing frequency. Extra force does not mean each fibre produces half an action potential. More units and altered firing frequency grade whole-muscle force. Muscle spindles detect stretch; Golgi tendon organs monitor tension. These proprioceptors provide feedback relevant to movement and flexibility training. In the syllabus model of PNF, a controlled isometric contraction and subsequent relaxation are linked with reduced resistance to a further stretch, including inhibitory effects associated with tension feedback. A muscle spindle responds to length/change in length; the Golgi tendon organ responds to tension. PNF needs suitable supervision rather than forcing a painful stretch."
+            ]
+          },
+          {
+            "q": "Calculate minute ventilation, giving the correct unit.",
+            "m": 2,
+            "ms": [
+              "32 × 2.5.",
+              "80 L min⁻¹."
+            ],
+            "note": "Indicative content: credit equivalent accurate reasoning. Do not award the same idea twice.",
+            "answer": 80
+          },
+          {
+            "q": "Calculate cardiac output in L min⁻¹, showing your working.",
+            "m": 3,
+            "ms": [
+              "150 × 140 = 21 000 mL min⁻¹.",
+              "Divide by 1000 to convert mL to L.",
+              "21 L min⁻¹."
+            ],
+            "note": "Indicative content: credit equivalent accurate reasoning. Do not award the same idea twice.",
+            "answer": 21
+          },
+          {
+            "q": "Explain how blood redistribution and oxygen extraction support the working muscles.",
+            "m": 4,
+            "ms": [
+              "Working muscle arterioles dilate, increasing local flow.",
+              "Some less active beds can constrict, redistributing available flow.",
+              "Muscle extraction increases arterio-venous oxygen difference.",
+              "Greater flow and extraction support increased oxygen consumption/aerobic ATP resynthesis."
+            ],
+            "note": "Indicative content: credit equivalent accurate reasoning. Do not award the same idea twice."
+          },
+          {
+            "q": "Analyse how the rower’s cardiovascular and respiratory responses work together to support sustained exercise.",
+            "m": 8,
+            "lor": [
+              [
+                "7–8",
+                "Accurate, developed explanation and analysis, applied closely to the context, with a supported judgement."
+              ],
+              [
+                "5–6",
+                "Mostly accurate knowledge and some developed application/analysis; the conclusion has support but may be uneven."
+              ],
+              [
+                "3–4",
+                "Some relevant knowledge and application; development or analysis is limited."
+              ],
+              [
+                "1–2",
+                "Isolated relevant statements with little development or application."
+              ],
+              [
+                "0",
+                "No creditworthy response."
+              ]
+            ],
+            "ind": [
+              "Heart rate/stroke volume and cardiac output.",
+              "Ventilation, alveolar gradients, haemoglobin carriage and muscle unloading.",
+              "Venous return and extraction; links between mechanisms rather than unrelated lists.",
+              "Training status/intensity and limits of interpreting a single test stage."
+            ],
+            "ms": [],
+            "note": "Original Prodigy best-fit levels, not AQA’s official marking grid. Assess the whole response, then choose a defensible mark within the band. Indicative content is not a point-per-mark checklist."
+          },
+          {
+            "q": "Evaluate the claim that successful rowing performance depends only on aerobic energy supply. Use the case and draw on anatomy, energy systems and neuromuscular function.",
+            "m": 15,
+            "lor": [
+              [
+                "12–15",
+                "Accurate, well-selected knowledge with sustained contextual application, connected analysis and balanced evaluation leading to a well-supported judgement."
+              ],
+              [
+                "8–11",
+                "Generally accurate knowledge with relevant application and developed analysis/evaluation, though uneven in places; a reasoned judgement."
+              ],
+              [
+                "4–7",
+                "Some relevant knowledge and application; analysis/evaluation is partial or mostly asserted."
+              ],
+              [
+                "1–3",
+                "Basic isolated relevant statements with little application or developed reasoning."
+              ],
+              [
+                "0",
+                "No creditworthy response."
+              ]
+            ],
+            "ind": [
+              "Aerobic capacity is important for sustained work, with delivery and extraction adaptations.",
+              "ATP–PC and glycolytic supply contribute during starts, changes of pace and the finishing effort.",
+              "All systems overlap; contribution depends on intensity/duration rather than an abrupt on/off switch.",
+              "Fibre recruitment, force, technique and recovery also affect performance.",
+              "A judgement should explain why aerobic importance does not imply sole dependence."
+            ],
+            "ms": [],
+            "note": "Original Prodigy best-fit levels, not AQA’s official marking grid. Assess the whole response, then choose a defensible mark within the band. Indicative content is not a point-per-mark checklist."
+          }
+        ]
+      },
+      {
+        "title": "Section B · Skill acquisition",
+        "stem": "<p><b>Fictional case:</b> A novice basketball player can pass accurately in an unopposed drill but struggles when defenders and several passing options are introduced. Recorded reaction time is 0.28 s and movement time 0.34 s.</p>",
+        "parts": [
+          {
+            "q": "Which statement is accurate?",
+            "opts": [
+              "An open skill occurs only outdoors.",
+              "Skill classification depends on the specific action and environment rather than the sport’s name alone.",
+              "Every skill within a sport occupies exactly the same continuum position."
+            ],
+            "a": 1,
+            "m": 1,
+            "ms": [
+              "Skill classification depends on the specific action and environment rather than the sport’s name alone. The free throw is relatively closed and self-paced; the contested pass is more open and externally paced. Both have large muscle involvement but also fine control. Continua permit intermediate positions: do not force every action into a universal binary label."
+            ]
+          },
+          {
+            "q": "Which statement is accurate?",
+            "opts": [
+              "Knowledge of performance is just the final score.",
+              "Manual guidance should be used continuously with every expert.",
+              "Knowledge of results describes the outcome; knowledge of performance describes how the movement was executed."
+            ],
+            "a": 2,
+            "m": 1,
+            "ms": [
+              "Knowledge of results describes the outcome; knowledge of performance describes how the movement was executed. Distance is knowledge of results; release-angle feedback is knowledge of performance. Corrective feedback can be constructive rather than simply discouraging. Plan opportunities for the learner to judge the movement before receiving external information."
+            ]
+          },
+          {
+            "q": "Which statement is accurate?",
+            "opts": [
+              "Transfer can help, hinder or have little effect on learning another skill.",
+              "Transfer is always positive.",
+              "Bilateral transfer means moving from one sport to another."
+            ],
+            "a": 0,
+            "m": 1,
+            "ms": [
+              "Transfer can help, hinder or have little effect on learning another skill. An established response can interfere with the new technique, illustrating negative transfer. A coach can highlight the differences and provide focused practice. Improvement after practice alone does not prove positive transfer without comparing appropriate starting conditions."
+            ]
+          },
+          {
+            "q": "Calculate response time and distinguish it from reaction time.",
+            "m": 2,
+            "ms": [
+              "Response time = 0.28 + 0.34 = 0.62 s.",
+              "Reaction time ends at movement initiation; response time also includes movement."
+            ],
+            "note": "Indicative content: credit equivalent accurate reasoning. Do not award the same idea twice."
+          },
+          {
+            "q": "Explain why adding realistic passing alternatives can increase reaction time.",
+            "m": 3,
+            "ms": [
+              "The player must discriminate/select among more possible responses.",
+              "Hick’s law predicts longer choice reaction time as alternatives increase.",
+              "A novice may need more processing before selecting the pass; anticipation/learning can modify the effect."
+            ],
+            "note": "Indicative content: credit equivalent accurate reasoning. Do not award the same idea twice."
+          },
+          {
+            "q": "Justify distributed and variable practice for this player.",
+            "m": 4,
+            "ms": [
+              "Distributed practice includes rest/feedback and helps manage novice fatigue/attention.",
+              "Explain how this preserves practice quality.",
+              "Variable practice changes relevant defender/target conditions.",
+              "It develops adaptable responses suited to the open competitive skill."
+            ],
+            "note": "Indicative content: credit equivalent accurate reasoning. Do not award the same idea twice."
+          },
+          {
+            "q": "Analyse how guidance and feedback could change as this player progresses towards autonomous performance.",
+            "m": 8,
+            "lor": [
+              [
+                "7–8",
+                "Accurate, developed explanation and analysis, applied closely to the context, with a supported judgement."
+              ],
+              [
+                "5–6",
+                "Mostly accurate knowledge and some developed application/analysis; the conclusion has support but may be uneven."
+              ],
+              [
+                "3–4",
+                "Some relevant knowledge and application; development or analysis is limited."
+              ],
+              [
+                "1–2",
+                "Isolated relevant statements with little development or application."
+              ],
+              [
+                "0",
+                "No creditworthy response."
+              ]
+            ],
+            "ind": [
+              "Clear demonstration and manageable cues for cognitive learning.",
+              "Specific knowledge of performance as technique becomes more consistent.",
+              "Intrinsic feedback and selective external feedback at greater expertise.",
+              "Avoid dependence/overload; feedback should respond to evidence rather than a fixed schedule."
+            ],
+            "ms": [],
+            "note": "Original Prodigy best-fit levels, not AQA’s official marking grid. Assess the whole response, then choose a defensible mark within the band. Indicative content is not a point-per-mark checklist."
+          },
+          {
+            "q": "Evaluate whether repeating the same unopposed passing drill is sufficient preparation for competitive basketball. Apply skill classification, information processing and schema theory.",
+            "m": 15,
+            "lor": [
+              [
+                "12–15",
+                "Accurate, well-selected knowledge with sustained contextual application, connected analysis and balanced evaluation leading to a well-supported judgement."
+              ],
+              [
+                "8–11",
+                "Generally accurate knowledge with relevant application and developed analysis/evaluation, though uneven in places; a reasoned judgement."
+              ],
+              [
+                "4–7",
+                "Some relevant knowledge and application; analysis/evaluation is partial or mostly asserted."
+              ],
+              [
+                "1–3",
+                "Basic isolated relevant statements with little application or developed reasoning."
+              ],
+              [
+                "0",
+                "No creditworthy response."
+              ]
+            ],
+            "ind": [
+              "Repetition can establish basic coordination and confidence.",
+              "Competition is open and requires selective attention, perception and response selection.",
+              "Variable conditions support adaptable recall/recognition schemas.",
+              "Representative pressure and feedback support transfer, while excessive complexity can overload a novice.",
+              "A staged whole/part or progressive practice approach should be justified with the learner’s needs."
+            ],
+            "ms": [],
+            "note": "Original Prodigy best-fit levels, not AQA’s official marking grid. Assess the whole response, then choose a defensible mark within the band. Indicative content is not a point-per-mark checklist."
+          }
+        ]
+      },
+      {
+        "title": "Section C · Sport and society",
+        "stem": "<p><b>Fictional case:</b> A local football project offers discounted sessions but has no accessible transport and little provision at times suitable for carers. A sponsor offers funding in exchange for prominent coverage of the elite team rather than the community sessions.</p>",
+        "parts": [
+          {
+            "q": "Which statement is accurate?",
+            "opts": [
+              "Pre-industrial mob football used one nationally administered rulebook.",
+              "Real tennis and mob football were equally accessible to all social classes.",
+              "Pre-industrial sporting recreation reflected local conditions and a strongly divided society."
+            ],
+            "a": 2,
+            "m": 1,
+            "ms": [
+              "Pre-industrial sporting recreation reflected local conditions and a strongly divided society. Local rules and irregular festival opportunities fit popular recreation. Limited communication made uniform rules harder to spread. Compare this with elite access to real tennis rather than claiming every person in the period played the same games."
+            ]
+          },
+          {
+            "q": "Which statement is accurate?",
+            "opts": [
+              "Amateur and professional status reflected social values and access to money as well as payment rules.",
+              "Amateur status has always guaranteed equal class access.",
+              "Women’s sporting opportunities changed identically in every sport."
+            ],
+            "a": 0,
+            "m": 1,
+            "ms": [
+              "Amateur and professional status reflected social values and access to money as well as payment rules. A formally equal amateur rule can have unequal class effects. Increased female visibility and investment can support opportunity, yet coverage, facilities and leadership access can remain uneven. Distinguish the historical pattern from the position of every current participant."
+            ]
+          },
+          {
+            "q": "Which statement is accurate?",
+            "opts": [
+              "Unequal participation proves fixed differences in ability.",
+              "Participation is shaped by interacting social opportunities, expectations and personal choices.",
+              "Prejudice and discrimination always mean exactly the same action."
+            ],
+            "a": 1,
+            "m": 1,
+            "ms": [
+              "Participation is shaped by interacting social opportunities, expectations and personal choices. The stereotype can shape expectations and discriminatory provision, which may reduce participation. Do not infer innate lack of interest from unequal participation. Disability, ethnicity, gender and disadvantage may intersect rather than operating independently."
+            ]
+          },
+          {
+            "q": "Distinguish prejudice from discrimination.",
+            "m": 2,
+            "ms": [
+              "Prejudice is a pre-judged attitude or belief.",
+              "Discrimination is unequal treatment/action; an applied example may show the distinction."
+            ],
+            "note": "Indicative content: credit equivalent accurate reasoning. Do not award the same idea twice."
+          },
+          {
+            "q": "Explain how improved transport helped the development of organised sport during industrialisation.",
+            "m": 3,
+            "ms": [
+              "Travel between towns became more practical.",
+              "Regular inter-club fixtures became possible.",
+              "Wider competition encouraged common rules and governing structures."
+            ],
+            "note": "Indicative content: credit equivalent accurate reasoning. Do not award the same idea twice."
+          },
+          {
+            "q": "Explain two reasons why discounted sessions alone may not remove participation barriers in the case.",
+            "m": 4,
+            "ms": [
+              "Transport/accessibility remains a barrier.",
+              "A reduced fee does not make an inaccessible journey possible.",
+              "Timing/caring responsibilities remain a barrier.",
+              "A session can be affordable yet impractical to attend regularly."
+            ],
+            "note": "Indicative content: credit equivalent accurate reasoning. Do not award the same idea twice."
+          },
+          {
+            "q": "Analyse the interrelationship between media, sponsorship and sport using the proposed funding agreement.",
+            "m": 8,
+            "lor": [
+              [
+                "7–8",
+                "Accurate, developed explanation and analysis, applied closely to the context, with a supported judgement."
+              ],
+              [
+                "5–6",
+                "Mostly accurate knowledge and some developed application/analysis; the conclusion has support but may be uneven."
+              ],
+              [
+                "3–4",
+                "Some relevant knowledge and application; development or analysis is limited."
+              ],
+              [
+                "1–2",
+                "Isolated relevant statements with little development or application."
+              ],
+              [
+                "0",
+                "No creditworthy response."
+              ]
+            ],
+            "ind": [
+              "Coverage attracts audience and commercial interest.",
+              "Funding can improve provision and support elite opportunities.",
+              "Sponsor/media preferences may direct resources towards marketable events.",
+              "Consider effects on grassroots access and stakeholder priorities, rather than treating revenue as an automatic universal benefit."
+            ],
+            "ms": [],
+            "note": "Original Prodigy best-fit levels, not AQA’s official marking grid. Assess the whole response, then choose a defensible mark within the band. Indicative content is not a point-per-mark checklist."
+          },
+          {
+            "q": "Evaluate how social institutions and commercial change have shaped access to football from industrialisation to the present. Connect historical development with the fictional project.",
+            "m": 15,
+            "lor": [
+              [
+                "12–15",
+                "Accurate, well-selected knowledge with sustained contextual application, connected analysis and balanced evaluation leading to a well-supported judgement."
+              ],
+              [
+                "8–11",
+                "Generally accurate knowledge with relevant application and developed analysis/evaluation, though uneven in places; a reasoned judgement."
+              ],
+              [
+                "4–7",
+                "Some relevant knowledge and application; analysis/evaluation is partial or mostly asserted."
+              ],
+              [
+                "1–3",
+                "Basic isolated relevant statements with little application or developed reasoning."
+              ],
+              [
+                "0",
+                "No creditworthy response."
+              ]
+            ],
+            "ind": [
+              "Factories, churches, schools, authorities and transport contributed to organised provision.",
+              "Codification and governing bodies supported regular competition.",
+              "Class, gender, disability and economic inequalities affect opportunity.",
+              "Post-war media/commercialisation expanded resources and visibility but distributed them unevenly.",
+              "A developed judgement should identify matched participation solutions and avoid portraying access as automatically equal today."
+            ],
+            "ms": [],
+            "note": "Original Prodigy best-fit levels, not AQA’s official marking grid. Assess the whole response, then choose a defensible mark within the band. Indicative content is not a point-per-mark checklist."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pe-paper-2",
+    "paper": 2,
+    "title": "Paper 2 · Optimising sporting performance",
+    "marks": 105,
+    "minutes": 120,
+    "coverage": [
+      "Exercise physiology and biomechanics",
+      "Sport psychology",
+      "Sport, society and technology"
+    ],
+    "questions": [
+      {
+        "title": "Section A · Exercise physiology and biomechanics",
+        "stem": "<p><b>Fictional case:</b> An 80 kg sprinter experiences a triangular horizontal resultant-force pulse of peak 1200 N lasting 0.20 s. Their coach plans a training block and taper. All values are simplified educational data.</p>",
+        "parts": [
+          {
+            "q": "Which statement is accurate?",
+            "opts": [
+              "Lever arms are measured from the end of the limb regardless of the force line.",
+              "Mechanical advantage equals effort arm divided by resistance arm.",
+              "A third-class lever always multiplies force above the effort."
+            ],
+            "a": 1,
+            "m": 1,
+            "ms": [
+              "Mechanical advantage equals effort arm divided by resistance arm. Resistance moment is 30 N m, so balancing effort is 600 N. Mechanical advantage is 0.05/0.30 = 1/6: force disadvantage. The limb can still be effective because speed and range at the load may be valuable. The model simplifies distributed segment mass and changing muscle moment arms."
+            ]
+          },
+          {
+            "q": "Which statement is accurate?",
+            "opts": [
+              "Moment of inertia depends only on total mass and never its distribution.",
+              "With negligible external torque, reducing moment of inertia increases angular velocity.",
+              "Tucking creates new angular momentum without external torque."
+            ],
+            "a": 1,
+            "m": 1,
+            "ms": [
+              "With negligible external torque, reducing moment of inertia increases angular velocity. Tucking reduces moment of inertia and increases angular velocity; opening increases inertia and slows rotation. Angular momentum is not created by tucking. External torque during take-off establishes the initial rotation, so take-off and flight must be analysed separately."
+            ]
+          },
+          {
+            "q": "Which statement is accurate?",
+            "opts": [
+              "Release speed, angle and height influence projectile range; air resistance can change the flight path.",
+              "Every sporting projectile must have a 45° optimal release angle.",
+              "Gravity acts only after a projectile reaches its highest point."
+            ],
+            "a": 0,
+            "m": 1,
+            "ms": [
+              "Release speed, angle and height influence projectile range; air resistance can change the flight path. Their ideal equal-height ranges match because sin(2θ) is equal, but flight times and peak heights differ. Real performers may release at different speeds as angle changes. Label model assumptions and avoid applying 45° as a universal coaching rule."
+            ]
+          },
+          {
+            "q": "Calculate the impulse from the horizontal force pulse.",
+            "m": 2,
+            "ms": [
+              "½ × 1200 × 0.20.",
+              "120 N s."
+            ],
+            "note": "Indicative content: credit equivalent accurate reasoning. Do not award the same idea twice.",
+            "answer": 120
+          },
+          {
+            "q": "Calculate the resulting change in horizontal velocity, showing the relationship used.",
+            "m": 3,
+            "ms": [
+              "Impulse = change in momentum = mass × velocity change.",
+              "Velocity change = 120/80.",
+              "1.5 m s⁻¹ in the force direction."
+            ],
+            "note": "Indicative content: credit equivalent accurate reasoning. Do not award the same idea twice.",
+            "answer": 1.5
+          },
+          {
+            "q": "Explain how specificity and recovery should influence the sprinter’s training design.",
+            "m": 4,
+            "ms": [
+              "Include appropriate high-intensity actions matched to sprint force/speed demands.",
+              "Explain how these target the required adaptations.",
+              "Provide suitable recovery between quality efforts and sessions.",
+              "Recovery supports restored capacity/adaptation and limits loss of quality from accumulated fatigue."
+            ],
+            "note": "Indicative content: credit equivalent accurate reasoning. Do not award the same idea twice."
+          },
+          {
+            "q": "Analyse why the sprinter’s coach should use more than peak force when interpreting the test and planning training.",
+            "m": 8,
+            "lor": [
+              [
+                "7–8",
+                "Accurate, developed explanation and analysis, applied closely to the context, with a supported judgement."
+              ],
+              [
+                "5–6",
+                "Mostly accurate knowledge and some developed application/analysis; the conclusion has support but may be uneven."
+              ],
+              [
+                "3–4",
+                "Some relevant knowledge and application; development or analysis is limited."
+              ],
+              [
+                "1–2",
+                "Isolated relevant statements with little development or application."
+              ],
+              [
+                "0",
+                "No creditworthy response."
+              ]
+            ],
+            "ind": [
+              "Impulse depends on force–time area, including duration and shape.",
+              "Mass influences the velocity change produced by a given impulse.",
+              "Direction and whether force is resultant matter.",
+              "Standardisation, repeated tests and relevance to competitive technique support interpretation."
+            ],
+            "ms": [],
+            "note": "Original Prodigy best-fit levels, not AQA’s official marking grid. Assess the whole response, then choose a defensible mark within the band. Indicative content is not a point-per-mark checklist."
+          },
+          {
+            "q": "Evaluate a plan that increases training intensity and volume every day until a championship. Apply training principles, periodisation, recovery and biomechanics.",
+            "m": 15,
+            "lor": [
+              [
+                "12–15",
+                "Accurate, well-selected knowledge with sustained contextual application, connected analysis and balanced evaluation leading to a well-supported judgement."
+              ],
+              [
+                "8–11",
+                "Generally accurate knowledge with relevant application and developed analysis/evaluation, though uneven in places; a reasoned judgement."
+              ],
+              [
+                "4–7",
+                "Some relevant knowledge and application; analysis/evaluation is partial or mostly asserted."
+              ],
+              [
+                "1–3",
+                "Basic isolated relevant statements with little application or developed reasoning."
+              ],
+              [
+                "0",
+                "No creditworthy response."
+              ]
+            ],
+            "ind": [
+              "Progressive overload requires managed demand, not unlimited daily increases.",
+              "Specificity and high-quality force application matter for sprinting.",
+              "Fatigue can alter coordination and reduce effective impulse or movement quality.",
+              "Recovery, sleep and suitable nutrition support adaptation; injury risks require management.",
+              "A taper can reduce volume while retaining suitable intensity; timing should respond to evidence and individual needs."
+            ],
+            "ms": [],
+            "note": "Original Prodigy best-fit levels, not AQA’s official marking grid. Assess the whole response, then choose a defensible mark within the band. Indicative content is not a point-per-mark checklist."
+          }
+        ]
+      },
+      {
+        "title": "Section B · Sport psychology",
+        "stem": "<p><b>Fictional case:</b> An experienced penalty taker becomes worried before a final, reports tense shoulders and misses. Their coach concludes that the miss proves a weak personality. Several teammates also argue and stop supporting one another.</p>",
+        "parts": [
+          {
+            "q": "Which statement is accurate?",
+            "opts": [
+              "Every performer’s optimum arousal is exactly the same.",
+              "Drive theory predicts that every error disappears at high arousal.",
+              "Arousal theories make different predictions, and the most useful level depends on performer and task."
+            ],
+            "a": 2,
+            "m": 1,
+            "ms": [
+              "Arousal theories make different predictions, and the most useful level depends on performer and task. The inverted-U offers a simple prediction but does not fix the same optimum for everyone. A catastrophe curve is a theoretical relationship, not a diagnostic graph of a particular student. Consider skill complexity, expertise and anxiety when making a recommendation."
+            ]
+          },
+          {
+            "q": "Which statement is accurate?",
+            "opts": [
+              "Trait anxiety refers only to one moment before a match.",
+              "Cognitive anxiety concerns worry; somatic anxiety concerns bodily responses.",
+              "High heart rate proves cognitive anxiety in every situation."
+            ],
+            "a": 1,
+            "m": 1,
+            "ms": [
+              "Cognitive anxiety concerns worry; somatic anxiety concerns bodily responses. Pulse alone cannot establish that the player is anxious. Combine measures and context, using consistent timing. A change within a person may be more informative than comparing raw scores between people with different baselines."
+            ]
+          },
+          {
+            "q": "Which statement is accurate?",
+            "opts": [
+              "SMARTER goals never need revision.",
+              "Process and performance goals give performers targets they can control more directly than final results.",
+              "An outcome goal is always fully under the athlete’s control."
+            ],
+            "a": 1,
+            "m": 1,
+            "ms": [
+              "Process and performance goals give performers targets they can control more directly than final results. Winning is an outcome goal; a personal time is a performance goal; pacing behaviours are process goals. They can work together. Make the target appropriate to baseline and available time, then evaluate progress rather than merely adding the word SMARTER to a plan."
+            ]
+          },
+          {
+            "q": "Distinguish cognitive and somatic anxiety using the case.",
+            "m": 2,
+            "ms": [
+              "Worry about the final/missing is cognitive anxiety.",
+              "Bodily tension such as tense shoulders is somatic anxiety."
+            ],
+            "note": "Indicative content: credit equivalent accurate reasoning. Do not award the same idea twice."
+          },
+          {
+            "q": "Explain an interactionist challenge to the coach’s personality conclusion.",
+            "m": 3,
+            "ms": [
+              "Behaviour reflects personal and environmental factors.",
+              "The final adds pressure/evaluation and may change the athlete’s state.",
+              "One missed penalty does not establish a fixed weak trait or prove its cause."
+            ],
+            "note": "Indicative content: credit equivalent accurate reasoning. Do not award the same idea twice."
+          },
+          {
+            "q": "Justify one cognitive and one somatic stress-management technique for the athlete.",
+            "m": 4,
+            "ms": [
+              "Use a practised task cue, imagery or credible positive self-talk.",
+              "Explain how it redirects worry towards controllable execution.",
+              "Use practised breathing, centering or relaxation.",
+              "Explain the link to bodily tension and the need to practise/evaluate the routine."
+            ],
+            "note": "Indicative content: credit equivalent accurate reasoning. Do not award the same idea twice."
+          },
+          {
+            "q": "Analyse how feedback and attribution after the miss could affect the athlete’s motivation and self-efficacy.",
+            "m": 8,
+            "lor": [
+              [
+                "7–8",
+                "Accurate, developed explanation and analysis, applied closely to the context, with a supported judgement."
+              ],
+              [
+                "5–6",
+                "Mostly accurate knowledge and some developed application/analysis; the conclusion has support but may be uneven."
+              ],
+              [
+                "3–4",
+                "Some relevant knowledge and application; development or analysis is limited."
+              ],
+              [
+                "1–2",
+                "Isolated relevant statements with little development or application."
+              ],
+              [
+                "0",
+                "No creditworthy response."
+              ]
+            ],
+            "ind": [
+              "Stable uncontrollable inability explanations can reduce expectations/persistence.",
+              "Evidence-based controllable technique/preparation explanations can support change.",
+              "Mastery progress, credible persuasion and relevant modelling can support efficacy.",
+              "Avoid false reassurance or blaming every failure on the athlete; consider alternative causes."
+            ],
+            "ms": [],
+            "note": "Original Prodigy best-fit levels, not AQA’s official marking grid. Assess the whole response, then choose a defensible mark within the band. Indicative content is not a point-per-mark checklist."
+          },
+          {
+            "q": "Evaluate how leadership, cohesion and arousal management could help the whole team prepare for another final.",
+            "m": 15,
+            "lor": [
+              [
+                "12–15",
+                "Accurate, well-selected knowledge with sustained contextual application, connected analysis and balanced evaluation leading to a well-supported judgement."
+              ],
+              [
+                "8–11",
+                "Generally accurate knowledge with relevant application and developed analysis/evaluation, though uneven in places; a reasoned judgement."
+              ],
+              [
+                "4–7",
+                "Some relevant knowledge and application; analysis/evaluation is partial or mostly asserted."
+              ],
+              [
+                "1–3",
+                "Basic isolated relevant statements with little application or developed reasoning."
+              ],
+              [
+                "0",
+                "No creditworthy response."
+              ]
+            ],
+            "ind": [
+              "Distinguish task/social cohesion and coordination/motivational losses.",
+              "Use roles, shared goals and representative practice to target actual group processes.",
+              "Leadership should fit required/preferred behaviour and the sporting situation.",
+              "Arousal theory supports individualised preparation rather than one universal optimum.",
+              "Connect individual confidence and group functioning, considering limitations and measures of improvement."
+            ],
+            "ms": [],
+            "note": "Original Prodigy best-fit levels, not AQA’s official marking grid. Assess the whole response, then choose a defensible mark within the band. Indicative content is not a point-per-mark checklist."
+          }
+        ]
+      },
+      {
+        "title": "Section C · Sport, society and technology",
+        "stem": "<p><b>Fictional case:</b> A club buys a tracking system. A supplier claims the data prove which players will become elite. Devices differ between age groups. Sponsorship pays for the system but the junior programme loses funding. A player is pressured to use a prohibited substance to keep a contract.</p>",
+        "parts": [
+          {
+            "q": "Which statement is accurate?",
+            "opts": [
+              "Legal compliance and ethical sporting behaviour are related but not identical.",
+              "Every action not penalised by an official is automatically sportsmanlike.",
+              "Positive deviance means that a harmful behaviour is medically beneficial."
+            ],
+            "a": 0,
+            "m": 1,
+            "ms": [
+              "Legal compliance and ethical sporting behaviour are related but not identical. The behaviour may illustrate gamesmanship even if no formal penalty is given. Explain the intent, rule context and effect on fair competition. Playing through injury may be praised as commitment while causing harm, illustrating why overconformity needs critical evaluation."
+            ]
+          },
+          {
+            "q": "Which statement is accurate?",
+            "opts": [
+              "Every prohibited substance has exactly the same sporting effect.",
+              "Doping can offer a perceived performance advantage while creating health, fairness and welfare harms.",
+              "EPO improves oxygen carriage without any potential health risk."
+            ],
+            "a": 1,
+            "m": 1,
+            "ms": [
+              "Doping can offer a perceived performance advantage while creating health, fairness and welfare harms. Perceived unfair competition can encourage a coercive cycle, but does not remove ethical responsibility. Sanctions, welfare harms and loss of trust affect both performer and sport. A balanced debate should address fairness and autonomy without treating drug use as a safe training strategy; testing procedures themselves are outside this specification’s examined detail."
+            ]
+          },
+          {
+            "q": "Which statement is accurate?",
+            "opts": [
+              "All physical activity must aim at elite competition.",
+              "Physical education is defined only by winning matches.",
+              "Physical education, recreation and competitive sport have overlapping but different purposes."
+            ],
+            "a": 2,
+            "m": 1,
+            "ms": [
+              "Physical education, recreation and competitive sport have overlapping but different purposes. The lesson illustrates educational aims; the competition illustrates school sport. A recreational participant may value enjoyment over rankings. Classifications can overlap, so justify the dominant purpose rather than relying on the venue alone."
+            ]
+          },
+          {
+            "q": "Distinguish validity and reliability in evaluating the tracking measurements.",
+            "m": 2,
+            "ms": [
+              "Validity concerns whether the measure assesses the intended quality.",
+              "Reliability concerns consistency under comparable conditions."
+            ],
+            "note": "Indicative content: credit equivalent accurate reasoning. Do not award the same idea twice."
+          },
+          {
+            "q": "Explain one role of each: a national governing body, UK Sport and an institute of sport.",
+            "m": 3,
+            "ms": [
+              "A governing body provides sport-specific organisation/pathways.",
+              "UK Sport supports the high-performance Olympic/Paralympic system.",
+              "An institute provides specialist services such as sports science, medicine or performance support."
+            ],
+            "note": "Indicative content: credit equivalent accurate reasoning. Do not award the same idea twice."
+          },
+          {
+            "q": "Explain two problems with comparing the age groups’ tracking data directly.",
+            "m": 4,
+            "ms": [
+              "Different device sampling/processing can cause systematic measurement differences.",
+              "This can mimic a performance difference.",
+              "Age/maturation, role or session demands can differ.",
+              "Distance/tracking alone cannot isolate talent or predict every future elite performer."
+            ],
+            "note": "Indicative content: credit equivalent accurate reasoning. Do not award the same idea twice."
+          },
+          {
+            "q": "Analyse how data integrity and contextual interpretation could improve the club’s use of sports analytics.",
+            "m": 8,
+            "lor": [
+              [
+                "7–8",
+                "Accurate, developed explanation and analysis, applied closely to the context, with a supported judgement."
+              ],
+              [
+                "5–6",
+                "Mostly accurate knowledge and some developed application/analysis; the conclusion has support but may be uneven."
+              ],
+              [
+                "3–4",
+                "Some relevant knowledge and application; development or analysis is limited."
+              ],
+              [
+                "1–2",
+                "Isolated relevant statements with little development or application."
+              ],
+              [
+                "0",
+                "No creditworthy response."
+              ]
+            ],
+            "ind": [
+              "Standardise/calibrate suitable equipment and document processing.",
+              "Use accurate labelling, consistent conditions and appropriate access/security.",
+              "Consider uncertainty, missing data and multiple measures.",
+              "Interpret with role, maturation and opportunity; correlation/prediction is not proof of a single cause."
+            ],
+            "ms": [],
+            "note": "Original Prodigy best-fit levels, not AQA’s official marking grid. Assess the whole response, then choose a defensible mark within the band. Indicative content is not a point-per-mark checklist."
+          },
+          {
+            "q": "Evaluate whether commercial and technological development necessarily improves sport. Use the case, considering participation, elite performance, ethics and performer welfare.",
+            "m": 15,
+            "lor": [
+              [
+                "12–15",
+                "Accurate, well-selected knowledge with sustained contextual application, connected analysis and balanced evaluation leading to a well-supported judgement."
+              ],
+              [
+                "8–11",
+                "Generally accurate knowledge with relevant application and developed analysis/evaluation, though uneven in places; a reasoned judgement."
+              ],
+              [
+                "4–7",
+                "Some relevant knowledge and application; analysis/evaluation is partial or mostly asserted."
+              ],
+              [
+                "1–3",
+                "Basic isolated relevant statements with little application or developed reasoning."
+              ],
+              [
+                "0",
+                "No creditworthy response."
+              ]
+            ],
+            "ind": [
+              "Funding and technology can improve coaching, analysis, facilities and opportunity.",
+              "Unequal allocation may reduce grassroots provision or inclusion.",
+              "Overclaiming data can distort selection and reinforce unequal opportunities.",
+              "Contract/reward pressures may interact with doping and welfare harms; banned enhancement is not justified by commercial gain.",
+              "Balance stakeholders and conditions, concluding how governance and evidence can influence whether benefits are realised."
+            ],
+            "ms": [],
+            "note": "Original Prodigy best-fit levels, not AQA’s official marking grid. Assess the whole response, then choose a defensible mark within the band. Indicative content is not a point-per-mark checklist."
+          }
+        ]
+      }
+    ]
+  }
+]

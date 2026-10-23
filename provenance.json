@@ -1,0 +1,28 @@
+{
+  "qualification": "AQA 7582",
+  "reviewed": "2026-10-23",
+  "status": "Original unofficial concise revision material; not endorsed by AQA",
+  "lessons": 66,
+  "models": 7,
+  "revisionPapers": 2,
+  "sources": [
+    {
+      "title": "AQA 7582 specification and assessment",
+      "url": "https://www.aqa.org.uk/subjects/physical-education/a-level/physical-education-7582/specification/specification-at-a-glance"
+    },
+    {
+      "title": "Paper 1 subject content",
+      "url": "https://www.aqa.org.uk/subjects/physical-education/a-level/physical-education-7582/specification/subject-content/factors-affecting-participation-in-physical-activity-and-sport"
+    },
+    {
+      "title": "Paper 2 subject content",
+      "url": "https://www.aqa.org.uk/subjects/physical-education/a-level/physical-education-7582/specification/subject-content/factors-affecting-optimal-performance-in-physical-activity-and-sport"
+    },
+    {
+      "title": "Official assessment and NEA guidance",
+      "url": "https://www.aqa.org.uk/subjects/physical-education/a-level/physical-education-7582/specification/scheme-of-assessment"
+    }
+  ],
+  "assessment": "Two original 105-mark revision papers; retrieval MCQs repeat lessons; written contexts are new. Indicative schemes and best-fit levels are original, not official AQA grids. No official grade boundaries.",
+  "practical": "NEA preparation only: centre assessment and official authentication requirements apply."
+}
